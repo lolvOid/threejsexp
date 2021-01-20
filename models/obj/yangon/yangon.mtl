@@ -1,0 +1,204 @@
+#  ==========================================================================
+#  Wavefront Material file
+#  Exported by Red-i Productions' "Riptide Pro"
+#  (a commercial plugin for Cinema 4D PC & Mac, R9.6 or later)
+#  
+#  Red-i Productions
+#  http://skinprops.com
+#  
+#  ==========================================================================
+
+newmtl SulePagoda
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+newmtl Mahabandula_park
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+newmtl Bible_org
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl Null.10
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+newmtl Null.6
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+newmtl Null.7
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl Null.3
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+newmtl Null.9
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl Null.2
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+newmtl Null.1
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl Cube
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl Null.8
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl Null.5
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl SFU
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl Null
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl Cube.1
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+newmtl Cube.2
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl pullman
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl _1stop
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+newmtl BTB
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl AGD_
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl HighCourtOfYangonRegion
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl CityEngineMaterial
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl CityEngineMaterial3
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl default_Mat
+illum 1
+
+newmtl CityEngineMaterial8
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl CityEngineMaterial15
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+newmtl CityEngineMaterial18
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+newmtl CityEngineMaterial14
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl CityEngineMaterial12
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl CityEngineMaterial9
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl CityEngineShapeMaterial
+Kd 1.000000 1.000000 1.000000
+illum 1
+
+newmtl CityEngineMaterial4
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl CityEngineMaterial5
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl Yangon_City_Hall
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl CityEngineMaterial1
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+newmtl CityEngineMaterial2
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl CityEngineMaterial13
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl CityEngineMaterial16
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl CityEngineMaterial17
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl CityEngineMaterial10
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+
+newmtl CityEngineMaterial11
+Kd 0.800000 0.800000 0.800000
+illum 1
